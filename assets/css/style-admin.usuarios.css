@@ -1,0 +1,106 @@
+
+#contenedor-cuerpo{
+    width: 100%;
+    background: #a400cd;
+    box-shadow: 0px 4px 10px #030204; /* Sombra */
+    border-radius: 15px;
+    margin-top: 30px;
+    
+  
+}
+
+#breadcrumb{
+    width: 30%;
+    height: 1px;
+    margin-left: 18px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#link-inicio{
+    text-decoration: none;
+    font-family: "Shadows Into Light", sans-serif;
+    letter-spacing: 2.5px;
+    font-weight: bold;
+    color: #636363;
+}
+
+#botones{
+    margin-top: 28px;
+    margin-left: 10px;
+    font-family: "Shadows Into Light", sans-serif;
+    width: 50%;
+    
+}
+
+
+
+.contenedor-tabla{
+    margin-top: 20px;
+    width: 96%;
+    margin-left: 2%;
+    display: flex;              
+    justify-content: center;   
+    align-items: center;       
+    
+}
+
+#btDos{
+    background-color: #de6f7e;
+    color: black;
+    margin-left: 10px;
+    font-family: "Shadows Into Light", sans-serif;
+    letter-spacing: 2.5px;
+}
+
+#btDos:hover{
+    background: #5f3036; 
+    color: blanchedalmond;
+    box-shadow: 0px 8px 20px #000000; 
+}
+
+.table{
+          
+    justify-content: center;   
+    align-items: center;        
+    font-size: 14px; 
+    width: 100%; 
+    text-align: center;
+
+}
+
+#btEditar{
+    
+    background-color: #16ff09;
+    color: black;
+    margin-left: 10px;
+    font-family: "Shadows Into Light", sans-serif;
+    letter-spacing: 2.5px;
+}
+
+#btEditar:hover{
+    background: #0b7305; 
+    color: blanchedalmond;
+    box-shadow: 0px 8px 20px #000000; 
+}
+
+#btEliminar{
+    background-color: #ff0909;
+    color: black;
+    margin-left: 10px;
+    font-family: "Shadows Into Light", sans-serif;
+    letter-spacing: 2.5px;
+}
+
+#btEliminar:hover{
+    background: #990606; 
+    color: blanchedalmond;
+    box-shadow: 0px 8px 20px #000000; 
+}
+
+#contrasena{
+    font-size: 10px;
+    white-space: normal;
+    word-break: break-all;
+    width: 50px;
+}

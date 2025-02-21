@@ -1,0 +1,74 @@
+#contenedor-formulario{
+    box-shadow: 0px 4px 10px #030204; 
+    border-radius: 15px;
+    background-color: #a400cd ;
+    width: 70%;
+    height: 520px;
+    margin-left: 16%;
+    margin-top: 20px;
+    padding: 8px;
+}
+
+.mb-3{
+    width: 49%;  
+    float: left; 
+}
+
+.form-label{
+    width: 90%;
+}
+
+#formulario-inicio{
+    width: 80%;
+    height:540px;
+    margin-left: 14%;
+    margin-top: 20px;
+    font-family: "Shadows Into Light", sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+.form-check-label{
+    font-size: 20px;
+    margin-left: -10px;
+    
+}
+
+
+#exampleInputEmail1, #exampleInputPassword1, #edad {
+    width: 80%; 
+}
+
+#edad{
+    height: 45px;
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+.btn-primary {
+    width: 42%;  
+    font-size: 20px !important;
+    margin-left: 1%;
+    letter-spacing: 1px;
+}
+
+.btn-secondary {
+    width: 42%;  
+    font-size: 20px !important;
+    letter-spacing: 1px;
+}
+
+
+.form-label:hover{
+    color: white;
+}
+
+.form-check-label:hover{
+    color: white;
+}
+
+
+.form-control{
+    font-size: 22px;
+    letter-spacing: 1.5px;
+}

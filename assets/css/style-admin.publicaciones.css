@@ -1,0 +1,179 @@
+#contenedor-tablas {
+    box-shadow: 0px 4px 10px #030204; 
+    border-radius: 15px;
+    background-color: #a400cd ;
+    width: 100% !important;
+    margin-top: 40px;
+    padding: 8px;
+}
+
+
+.contenedorTabla{
+    border: 1px solid black ;
+    width: 95%;
+}
+
+.table{
+    margin-top: 5px;
+    width: 95%;
+    text-align: center;
+}
+
+.table th,
+.table td {
+    text-align: center; 
+    vertical-align: middle; 
+}
+
+#breadcrumb{
+    width: 30%;
+    height: 1px;
+    margin-left: 18px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#link-inicio{
+    text-decoration: none;
+    font-family: "Shadows Into Light", sans-serif;
+    letter-spacing: 2.5px;
+    font-weight: bold;
+    color: #636363;
+}
+
+#botones{
+    width: 80%;
+    margin-left: 16%;
+    margin-top: 10px;
+}
+
+
+#bt{
+    background: rgb(56, 194, 197);
+    color: black;
+    margin: 0px;
+    font-family: "Shadows Into Light", sans-serif;
+    letter-spacing: 2.5px;
+}
+
+#bt:hover{
+    background: rgb(32, 109, 110); 
+    color: blanchedalmond;
+    box-shadow: 0px 8px 20px #000000;
+}
+
+
+#btnDos{
+    background-color: #de6f7e;
+    color: black;
+    margin-left: 10px;
+    font-family: "Shadows Into Light", sans-serif;
+    letter-spacing: 2.5px;
+}
+
+#btnDos:hover{
+    background: #5f3036; 
+    color: blanchedalmond;
+    box-shadow: 0px 8px 20px #000000; 
+}
+
+#botones-dos{
+    width: 50%;
+    margin-top: 25px;
+}
+
+#btEditar{
+    background-color: #16ff09;
+    color: black;
+    margin-left: 10px;
+    font-family: "Shadows Into Light", sans-serif;
+    letter-spacing: 2.5px;
+}
+
+#btEditar:hover{
+    background: #0b7305; 
+    color: blanchedalmond;
+    box-shadow: 0px 8px 20px #000000;
+}
+
+#btEliminar{
+    background-color: #ff0909;
+    color: black;
+    margin-left: 10px;
+    font-family: "Shadows Into Light", sans-serif;
+    letter-spacing: 2.5px;
+}
+
+#btEliminar:hover{
+    background: #990606; 
+    color: blanchedalmond;
+    box-shadow: 0px 8px 20px #000000;
+}
+
+
+.table td {
+    height: 50px;
+}
+
+
+.table tr:nth-child(odd) {
+    height: 40px; 
+}
+
+.table tr:nth-child(even) {
+    height: 60px;
+}
+
+
+#bEditar{
+    background-color: #16ff09;
+    color: black;
+    font-family: "Shadows Into Light", sans-serif !important;
+    font-size: 18px !important;
+    padding: 3px;
+    margin-left: -4%;
+    width: 50%;
+}
+
+#bEliminar{
+    background-color: rgb(253, 42, 42);
+    color: black;
+    font-size: 13px !important;
+    width: 50%;
+    padding-left: 8px;
+
+}
+
+#bEditar:hover{
+    background: #0b7305; 
+    color: blanchedalmond;
+    box-shadow: 0px 8px 20px #000000; 
+}
+
+#bEliminar:hover{
+    background: #990606; 
+    color: blanchedalmond;
+    box-shadow: 0px 8px 20px #000000; 
+}
+
+#descripcionE{
+    width: 100% ;
+    height: 90px; 
+    overflow-y: auto;  
+    display: block;    
+}
+
+#imagenesE {
+    width: 240px;
+    height: 90px; 
+    overflow-y: auto;  
+    display: block;    
+}
+
+#cabezaDes{
+    width: 24%;
+}
+
+#cabezaImg{
+   width: 20%;
+}
