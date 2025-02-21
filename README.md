@@ -26,3 +26,7 @@ Funciones de administrador:
 
 Al exportar la base de datos, podras ingresar con el primer usuario como administrado, datos: Correo: sebastian@gmail.com  Contraseña: sebastian
 Puedes ingresar como usuario registrando uno nuevo o utilizando cualquiera de la base de datos que tenga rol 2 (usuario). La contraseña es el mismo nombre del usuario que selecciones.
+
+Tecnologias utilizadas: MySql, CSS, HTML, JS, BOOSTRAP.
+
+En la proxima version, se espera agilizar el codigo, mejorar el diseño, utlizar el framework de PHP Laravel y Node.js para js.
